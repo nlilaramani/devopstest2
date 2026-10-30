@@ -1,1 +1,2 @@
 hello world
+Some more content added by another developer
